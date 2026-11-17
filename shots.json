@@ -1,0 +1,6 @@
+[
+  { "name": "1-chase.jpg", "query": "?shot=chase&seed=1" },
+  { "name": "2-street.jpg", "query": "?shot=street&seed=1" },
+  { "name": "3-docks.jpg", "query": "?shot=docks&seed=1" },
+  { "name": "4-safehouse.jpg", "query": "?shot=safehouse&seed=1", "focus": "After Hours jobs and rally at Mara, persistent county progress", "activities": ["missions 4-5", "city rally", "camera", "vehicle workshop"] }
+]
